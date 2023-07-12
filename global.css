@@ -1,0 +1,58 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=SF+Pro+Display:wght@500&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-sf-pro-display: "SF Pro Display";
+  --font-poppins: Poppins;
+  --font-inter: Inter;
+
+  /* font sizes */
+  --font-size-3xs-5: 9.5px;
+  --font-size-5xs: 8px;
+  --font-size-3xs-2: 9.2px;
+  --font-size-2xs-5: 10.5px;
+  --font-size-3xs: 10px;
+  --font-size-mini: 15px;
+  --font-size-3xs-4: 9.4px;
+  --font-size-6xs-4: 6.4px;
+  --font-size-3xs-8: 9.8px;
+  --font-size-xs-8: 11.8px;
+  --font-size-xs: 12px;
+  --font-size-smi: 13px;
+  --font-size-mini-6: 14.6px;
+  --font-size-xs-7: 11.7px;
+  --font-size-base: 16px;
+  --font-size-4xl: 23px;
+  --font-size-2xs-3: 10.3px;
+
+  /* Colors */
+  --color-ghostwhite-100: #fcfbff;
+  --color-black: #000;
+  --color-white: #fff;
+  --color-slateblue: #043ca7;
+  --color-lightgray: #d2cece;
+  --color-saddlebrown: #894a01;
+  --color-gold-100: #fddc30;
+  --color-gold-200: #ffd600;
+  --color-gray-100: #0a0101;
+  --color-darkslategray: #22506c;
+  --color-mediumseagreen-100: #2cc369;
+
+  /* border radiuses */
+  --br-8xs: 5px;
+  --br-6xs: 7px;
+  --br-12xs: 1px;
+  --br-7xs: 6px;
+  --br-mini: 15px;
+  --br-8xs-7: 4.7px;
+  --br-11xs-8: 1.8px;
+  --br-xs: 12px;
+  --br-smi: 13px;
+  --br-base: 16px;
+  --br-11xl: 30px;
+}
